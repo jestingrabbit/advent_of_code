@@ -6,7 +6,7 @@ val inputSrc = Source.fromFile("input.txt")
 
 val lines = inputSrc.getLines
 
-case class Instruction(inst: String, value: Int)
+case class Instruction(val inst: String, val value: Int)
 
 object Instruction {
   def apply(str: String): Instruction = {
@@ -17,25 +17,52 @@ object Instruction {
 
 val instructions = lines.map(Instruction(_)).toArray
 
-case class State(line: Int, acc: Int) {
-  def step: State = {
-    instructions(line) match {
-      case Instruction("nop", _) => State(line + 1, acc)
-      case Instruction("jmp", i) => State(line + i, acc)
-      case Instruction("acc", i) => State(line + 1, acc + i)
+class State(val line: Int, val acc: Int, val seen: Set[Int]) {
+  def step: State = this.+(instructions(line))
+
+  def +(inst: Instruction): State = {
+    inst match {
+      case Instruction("nop", _) => new State(line + 1, acc, seen + (line + 1))
+      case Instruction("jmp", i) => new State(line + i, acc, seen + (line + i))
+      case Instruction("acc", i) => new State(line + 1, acc + i, seen + (line + 1))
     }
   }
 }
 
-def acc_before_loop(state: State, seen: Set[Int]): Int = {
+def stateBeforeEnd(state: State): State = {
   val newState = state.step
-  if (seen.contains(newState.line)) {
-    state.acc
+  if (state.seen.contains(newState.line)) {
+    state
+  } else if (newState.line == instructions.length) {
+    newState
   } else {
-    acc_before_loop(newState, seen + newState.line)
+    stateBeforeEnd(newState)
   }
 }
 
-println(acc_before_loop(State(0, 0), Set(0)))
+val start = new State(0, 0, Set(0))
 
-def
+println(stateBeforeEnd(start).acc)
+
+def correctAccBeforeEnd(state: State): Int = {
+  val inst = instructions(state.line)
+  inst match {
+    case Instruction("acc", i) => {
+      correctAccBeforeEnd(state + inst)
+    }
+    case Instruction(str, i) => {
+      val varInst = if (str == "nop")
+          Instruction("jmp", i)
+        else
+          Instruction("nop", i)
+      val finalState = stateBeforeEnd(state + varInst)
+      if (finalState.line == instructions.length) {
+        finalState.acc
+      } else {
+        correctAccBeforeEnd(state + inst)
+      }
+    }
+  }
+}
+
+println(correctAccBeforeEnd(start))
