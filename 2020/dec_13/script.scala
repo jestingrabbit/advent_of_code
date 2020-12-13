@@ -5,19 +5,19 @@ import scala.math
 
 val lines = Source.fromFile("input.txt").mkString.split("\n")
 
-def positiveMod(n: Int, b: Int): Int =  b * math.ceil(n.toFloat / b).toInt - n
+def waitTillBus(n: Int, b: Int): Int =  b * math.ceil(n.toFloat / b).toInt - n
 
 val readyAt = lines(0).toInt
 
 val buses = lines(1).split(",").filter(_ != "x").map(_.toInt)
 
-val (waitTime, bus) = buses.map(b => (positiveMod(readyAt, b), b)).min
+val (waitTime, bus) = buses.map(b => (waitTillBus(readyAt, b), b)).min
 
 println(waitTime * bus)
 
 val busesAndOffsets = lines(1).split(",").zipWithIndex.filter(_._1 != "x").map(pr => {
   val i = pr._1.toInt
-  (i, positiveMod(pr._2, i))
+  (i, waitTillBus(pr._2, i))
 })
 
 val answer2 = busesAndOffsets.foldLeft((1L, 0L))((pr1, pr2) => {
