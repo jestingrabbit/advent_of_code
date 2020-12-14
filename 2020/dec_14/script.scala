@@ -83,14 +83,14 @@ class State2(mask: Mask, mem: Map[Long, Long]) {
   def +(inst: Inst): State2 = inst match {
     case Mask(ar) => new State2(Mask(ar), mem)
     case Mem(i, v) => {
-      val memN = (0 to 35).foldLeft(Set(0L))((ls, n) => {
+      val memN = (0 to 35).foldLeft(Set(0L))((indexes, n) => {
         val p = State2.powers(n)
         if ((mask.bits(n) == '1') || ((mask.bits(n) == '0') && (i/p % 2 == 1)))
-          ls.map(_ + p)
+          indexes.map(_ + p)
         else if (mask.bits(n) == '0')
-          ls
+          indexes
         else
-          ls.union(ls.map(_ + p))
+          indexes.union(indexes.map(_ + p))
       }).map((_, v)).toMap
       new State2(mask, mem ++ memN)
     }
