@@ -1,0 +1,6 @@
+#FileLock
+#Thu Dec 17 00:53:41 AEDT 2020
+server=192.168.20.2\:49373
+hostName=bills-imac
+method=file
+id=1766bd3f3d97d0e4f44bdad63e79924b926a616ee39

@@ -1,0 +1,436 @@
+INFO  time: initialize in 1.41s
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_10/script.scala
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_11/script.scala
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_12/script.scala
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_13/script.scala
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_15/script.scala
+INFO  no build target: using presentation compiler with only scala-library
+something's wrong: no file:///Users/bill/Projects/advent_of_code/2020/dec_15/script.scala in Array[Int]RangePosition(file:///Users/bill/Projects/advent_of_code/2020/dec_15/script.scala, 174, 174, 184)
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+something's wrong: no file:///Users/bill/Projects/advent_of_code/2020/dec_16/script.scala in Array[<error>]RangePosition(file:///Users/bill/Projects/advent_of_code/2020/dec_16/script.scala, 416, 416, 431)
+something's wrong: no file:///Users/bill/Projects/advent_of_code/2020/dec_16/script.scala in Array[<error>]RangePosition(file:///Users/bill/Projects/advent_of_code/2020/dec_16/script.scala, 416, 416, 424)
+something's wrong: no file:///Users/bill/Projects/advent_of_code/2020/dec_16/script.scala in Array[<error>]RangePosition(file:///Users/bill/Projects/advent_of_code/2020/dec_16/script.scala, 416, 416, 426)
+something's wrong: no file:///Users/bill/Projects/advent_of_code/2020/dec_16/script.scala in Array[<error>]RangePosition(file:///Users/bill/Projects/advent_of_code/2020/dec_16/script.scala, 416, 416, 428)
+something's wrong: no file:///Users/bill/Projects/advent_of_code/2020/dec_16/script.scala in Array[<error>]RangePosition(file:///Users/bill/Projects/advent_of_code/2020/dec_16/script.scala, 416, 416, 428)
+something's wrong: no file:///Users/bill/Projects/advent_of_code/2020/dec_16/script.scala in Array[<error>]RangePosition(file:///Users/bill/Projects/advent_of_code/2020/dec_16/script.scala, 416, 416, 428)
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_15/script.scala
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_13/script.scala
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_12/script.scala
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+Dec. 21, 2020 5:12:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1307
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_16/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_17/script.scala
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_17/script.scala
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_7/script.scala
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_6/script.scala
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_8/script.scala
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_9/script.scala
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_6/script.scala
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_5/script.scala
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_4/script.scala
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_9/script.scala
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_10/script.scala
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_11/script.scala
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_17/script.scala
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_17/script.scala
+WARN  no build target: 
+something's wrong: no file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala in Set[<error>]RangePosition(file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala, 158, 158, 171)
+something's wrong: no file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala in Set[<error>]RangePosition(file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala, 158, 158, 165)
+something's wrong: no file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala in Set[<error>]RangePosition(file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala, 158, 158, 164)
+something's wrong: no file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala in Set[<error>]RangePosition(file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala, 158, 158, 165)
+something's wrong: no file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala in Set[<error>]RangePosition(file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala, 158, 158, 166)
+something's wrong: no file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala in Set[<error>]RangePosition(file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala, 158, 158, 167)
+something's wrong: no file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala in Set[Voxel]RangePosition(file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala, 158, 158, 168)
+something's wrong: no file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala in Set[Voxel]RangePosition(file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala, 158, 158, 168)
+something's wrong: no file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala in Set[Voxel]RangePosition(file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala, 158, 158, 168)
+something's wrong: no file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala in Set[Voxel]RangePosition(file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala, 158, 158, 167)
+something's wrong: no file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala in Set[Voxel]RangePosition(file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala, 158, 158, 168)
+something's wrong: no file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala in Set[Voxel]RangePosition(file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala, 158, 158, 168)
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_17/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_17/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_17/script.scala
+WARN  no build target: 
+Dec. 21, 2020 2:57:03 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: offset 260, count -10, length 293
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_17/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_17/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_17/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_17/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_17/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_17/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_17/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_17/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_17/script.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/bill/Projects/advent_of_code/2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_17/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_17/script.scala
+WARN  no build target: 
+something's wrong: no file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala in Set[<error>]RangePosition(file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala, 601, 601, 614)
+something's wrong: no file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala in Set[<error>]RangePosition(file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala, 601, 601, 607)
+something's wrong: no file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala in Set[<error>]RangePosition(file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala, 601, 601, 608)
+something's wrong: no file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala in Set[<error>]RangePosition(file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala, 601, 601, 609)
+something's wrong: no file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala in Set[<error>]RangePosition(file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala, 601, 601, 610)
+something's wrong: no file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala in Set[Voxel]RangePosition(file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala, 601, 601, 611)
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_17/script.scala
+WARN  no build target: 
+something's wrong: no file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala in Set[Voxel]RangePosition(file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala, 601, 601, 611)
+something's wrong: no file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala in Set[Voxel]RangePosition(file:///Users/bill/Projects/advent_of_code/2020/dec_17/script.scala, 601, 601, 611)
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_17/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_17/script.scala
+WARN  no build target: 
+WARN  no build target: /Users/bill/Projects/advent_of_code/2020/dec_17/script.scala
+WARN  no build target: 
